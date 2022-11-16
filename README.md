@@ -2,7 +2,7 @@
 instances for the FMRITH
 
 ***************************************Example instance******************************************************
-RequestsNum:									                                                    //the total number nodes, consisting of requests and a depot
+RequestsNum:// which is the total number of nodes consisting of requests and a depot
 6									
 Requests and depot info:									
 ID	Loc_x		Loc_y	RdrNum	LugNum	EarTime	LatTime	DDL_Arr	TUB
