@@ -1,6 +1,6 @@
 ***************************************Explanation of the Instance Data*****************************
 RequestsNum:                                         
-6                                                              // it denotes that the value of "RequestsNum" for this instance is 6							
+6                                                              // it denotes that "RequestsNum" has a value of 6
 Requests and depot info:	           
 ID	Loc_x		Loc_y		RdrNum	LugNum	EarTime	LatTime	DDL_Arr	TUB
 0	121.430649	31.15344	0	0	0	1440	1440	1440	                                  // this request denotes the depot
