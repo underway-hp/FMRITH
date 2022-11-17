@@ -3,12 +3,12 @@ RequestsNum:
 6                                                              // it denotes that "RequestsNum" has a value of 6
 Requests and depot info:	           
 ID	Loc_x		Loc_y		RdrNum	LugNum	EarTime	LatTime	DDL_Arr	TUB
-0	121.430649	31.15344	0	0	0	1440	1440	1440	                                  // this request denotes the depot
-1	121.3272287	31.1807562	1	1	422	452	485	33	                 // this is the first request node
+0	121.430649	31.15344	0	0	0	1440	1440	1440	// this request denotes the depot
+1	121.3272287	31.1807562	1	1	422	452	485	33	// this is the first request node
 2	121.4048637	31.2609823	1	0	418	448	485	37	
 3	121.4624585	31.2091887	2	1	440	470	495	25	
 4	121.399733	31.2128983	1	0	441	471	495	24	
-5	121.490314	31.1804742	1	1	428	458	480	22	                 // this is the last request node
+5	121.490314	31.1804742	1	1	428	458	480	22	// this is the last request node
 									
 DisMat:									                                                     //the unit of distance is meter
 0	13397.114	13552.926	8233.017	8046.874	6767.904				
